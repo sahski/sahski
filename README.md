@@ -16,4 +16,4 @@ https://ogusers.gg/R
 
 ## Contact Me
 
-- Discord sah#4444
+- sah#4444 (discord)
