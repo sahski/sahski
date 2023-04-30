@@ -2,12 +2,6 @@
 
 - Most likely working on Projects. When sober atleast ;)
 
-## Forum Page
-
-- Check out my rep page below!
-
-https://ogusers.gg/R
-
 ## Projects
 
 - AutoMM (Automated Middleman Bot Via Discord)
