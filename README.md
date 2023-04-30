@@ -6,7 +6,7 @@
 
 - AutoMM (Automated Middleman Bot Via Discord)
 
-- EasySwap (Automated Crypto Exchange Bot Via Discord)
+- AutoSwap (Automated Crypto Exchange Bot Via Discord)
 
 ## Contact Me
 
