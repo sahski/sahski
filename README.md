@@ -1,9 +1,16 @@
 ## Hi there 👋 I'm sah!
 
-Most likely working on AutoMM & EasySwap. When sober atleast ;)
+- Most likely working on Projects. When sober atleast ;)
 
 ## Forum Page
 
-Check out my rep page below!
+- Check out my rep page below!
 
 https://ogusers.gg/R
+
+## Projects
+
+- AutoMM (Automated Middleman Bot Via Discord)
+
+- EasySwap (Automated Crypto Exchange Bot Via Discord)
+
