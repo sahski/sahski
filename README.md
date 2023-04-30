@@ -10,4 +10,4 @@
 
 ## Contact Me
 
-- sah#4444 (discord)
+- sah#4444
